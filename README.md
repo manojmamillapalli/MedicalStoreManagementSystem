@@ -1,7 +1,9 @@
 # Medical Store Management System
 
 #Overview
-The Medical Store Management System is a comprehensive Java EE application designed to streamline the management of medical store operations. The project employs **JDBC, JSP,** and **Java Beans** to create a robust system that follows the **MVC (Model-View-Controller)** design pattern, promoting separation of concerns, ease of maintenance, and scalability.
+
+The Medical Store Management System is a comprehensive Java EE application designed to streamline the management of medical store operations. The project employs JDBC, JSP, and Java Beans to create a robust system that follows the 
+MVC (Model-View-Controller) design pattern, promoting separation of concerns, ease of maintenance, and scalability.
 
 Features
 CRUD Operations: 
